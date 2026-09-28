@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently learning AI.
+
 <!--
 **nikhil11sep/nikhil11sep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
